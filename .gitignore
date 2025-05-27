@@ -1,0 +1,6 @@
+# Ignorar archivos temporales y de sistema
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+.env
+*.pyc
